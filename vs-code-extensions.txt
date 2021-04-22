@@ -1,0 +1,15 @@
+# git
+eamodio.gitlens
+
+# syntax
+dsznajder.es7-react-js-snippets
+irongeek.vscode-env
+
+# formatting
+wmaurer.change-case
+eriklynd.json-tools
+flesler.url-encode
+
+# data mocking
+jkjustjoshing.vscode-text-pastry
+helixquar.randomeverything
