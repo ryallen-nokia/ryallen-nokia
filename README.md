@@ -5,6 +5,13 @@ Frontend Software Engineer at Nokia Deepfield
 - Slack: [@ryan.allen](https://app.slack.com/client/TFGS7ELFJ/D01FFN1644V/user_profile/U01FC346CF8); or
 - Email: [ryan.allen@nokia.com](mailto:ryan.allen@nokia.com)
 
-Normal working hours: 9 AM - 5 PM EST 
-
-Best times to collaborate: 10 AM - 12 PM, 1 PM - 4 PM EST
+<table>
+  <tr>
+    <th>Normal working hours</th>
+    <td>9am - 5pm EST</td>
+  </tr>
+  <tr>
+    <th>Best times to collaborate</th>
+    <td>10am - 12pm, 1pm - 4pm EST</td>
+  </tr>
+  
