@@ -1,5 +1,7 @@
-[Ryan Allen](https://team.deepfield.com/post/635788078475264000/ryan-allen-job-description-i-work-on-web-pages)
+## Ryan Allen
+
 Frontend Software Engineer at Nokia Deepfield
+([tumblr](https://team.deepfield.com/post/635788078475264000/ryan-allen-job-description-i-work-on-web-pages))
 
 📫 How to reach me ... 
 - Slack: [@ryan.allen](https://app.slack.com/client/TFGS7ELFJ/D01FFN1644V/user_profile/U01FC346CF8); or
