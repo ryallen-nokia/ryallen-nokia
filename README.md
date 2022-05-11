@@ -6,4 +6,5 @@ Frontend Software Engineer at Nokia Deepfield
 - Email: [ryan.allen@nokia.com](mailto:ryan.allen@nokia.com)
 
 Normal working hours: 9 AM - 5 PM EST 
+
 Best times to collaborate: 10 AM - 12 PM, 1 PM - 4 PM EST
