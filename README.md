@@ -1,6 +1,6 @@
 ## Ryan Allen
 
-Frontend Software Engineer at Nokia Deepfield
+Front-end Software Engineer at Nokia Deepfield
 ([tumblr](https://team.deepfield.com/post/635788078475264000/ryan-allen-job-description-i-work-on-web-pages))
 
 📫 How to reach me ... 
