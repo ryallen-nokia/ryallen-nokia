@@ -10,10 +10,10 @@ Front-end Software Engineer at Nokia Deepfield
 <table>
   <tr>
     <th>Normal working hours</th>
-    <td>9am - 5pm EST</td>
+    <td>9am - 5pm ET</td>
   </tr>
   <tr>
     <th>Best times to collaborate</th>
-    <td>10am - 12pm, 1pm - 4pm EST</td>
+    <td>10am - 12pm, 1pm - 4pm ET</td>
   </tr>
   
